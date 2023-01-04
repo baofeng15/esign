@@ -1,5 +1,5 @@
 {
-    "name": "baofeng/esign",
+    "name": "baofeng15/esign",
     "description": "e签宝api封装V3",
     "type": "library",
     "require": {
@@ -11,7 +11,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Baofeng\\Esign\\": "src/"
+            "Baofeng15\\Esign\\": "src/"
         }
     },
     "authors": [

@@ -1,7 +1,7 @@
 <?php
 
 
-namespace baofeng\esign\comm;
+namespace baofeng15\esign\comm;
 /**
  * esign响应
  * @author  澄泓

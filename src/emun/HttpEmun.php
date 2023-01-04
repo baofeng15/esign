@@ -1,5 +1,5 @@
 <?php
-namespace baofeng\esign\emun;
+namespace baofeng15\esign\emun;
 /**
  * 请求方法枚举
  * @author  澄泓

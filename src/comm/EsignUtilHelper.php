@@ -1,5 +1,5 @@
 <?php
-namespace baofeng\esign\comm;
+namespace baofeng15\esign\comm;
 
 /**
  * 常用工具类

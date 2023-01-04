@@ -1,5 +1,5 @@
 <?php
-namespace baofeng\esign\comm;
+namespace baofeng15\esign\comm;
 /**
  * 网络请求配置工具类
  * @author  澄泓
