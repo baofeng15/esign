@@ -1,0 +1,24 @@
+{
+    "name": "baofeng/esign",
+    "description": "e签宝api封装V3",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "require-dev": {
+        "php": ">=5.6.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Baofeng\\Esign\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "libaofeng",
+            "email": "baofeng15@163.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

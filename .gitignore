@@ -1,0 +1,7 @@
+/.idea
+/.vscode
+/nbproject
+/vendor
+*.log
+.env
+.DS_Store
