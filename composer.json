@@ -11,7 +11,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Baofeng15\\Esign\\": "src/"
+            "baofeng15\\esign\\": "src/"
         }
     },
     "authors": [
