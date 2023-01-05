@@ -3,10 +3,10 @@
     "description": "e签宝电子签名API V3版",
     "type": "library",
     "require": {
-        "php": ">=7.4.0"
+        "php": ">=5.6.0"
     },
     "require-dev": {
-        "php": ">=7.4.0"
+        "php": ">=5.6.0"
     },
     "license": "MIT",
     "autoload": {
