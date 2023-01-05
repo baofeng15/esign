@@ -12,7 +12,7 @@ class EsignLogHelper
         if(is_array($text) || is_object($text)){
             $text = json_encode($text);
         }
-        file_put_contents ( "../../log/".date("Y-m-d").".log", date ( "Y-m-d H:i:s" ) . "  " . $text . "\r\n", FILE_APPEND );
+        //file_put_contents ( "../../log/".date("Y-m-d").".log", date ( "Y-m-d H:i:s" ) . "  " . $text . "\r\n", FILE_APPEND );
     }
     
     static function  printMsg($msg)
