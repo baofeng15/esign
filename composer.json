@@ -1,6 +1,6 @@
 {
     "name": "baofeng15/esign",
-    "description": "e签宝api封装V3",
+    "description": "e签宝api封装V3版",
     "type": "library",
     "require": {
         "php": ">=5.6.0"
