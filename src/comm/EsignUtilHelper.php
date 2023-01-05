@@ -37,7 +37,7 @@ class EsignUtilHelper
         }else{
             $stringToSign .= $url;
         }
-        EsignLogHelper::printMsg($stringToSign);
+        //EsignLogHelper::printMsg($stringToSign);
         $signature = hash_hmac("sha256",$stringToSign, $projectScert, true);
         $signature = base64_encode($signature);
         return $signature;
