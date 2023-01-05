@@ -17,7 +17,7 @@ class EsignLogHelper
     
     static function  printMsg($msg)
     {
-        //echo "<pre/>";
+        echo "<pre/>";
         if (is_array($msg) || is_object($msg)) {
             var_dump($msg);
         } else {
