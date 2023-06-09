@@ -7,8 +7,8 @@ namespace baofeng15\esign\comm;
  */
 class EsignHttpCfgHelper
 {
-    public static $connectTimeout = 15;//15 second
-    public static $readTimeout = 15;//15 second
+    public static $connectTimeout = 30;//30 second
+    public static $readTimeout = 30;//30 second
     public static $uploadReadTimeout = 60;
     public static $uploadConnectTimeout = 60;
     public static $enableHttpProxy=false;//是否需要代理
